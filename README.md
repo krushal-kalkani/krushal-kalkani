@@ -7,7 +7,7 @@ Python, JavaScript, React, Node.js, MERN stack, and data science.<br><br>⚡ **F
 I enjoy exploring new technologies and sharing my knowledge with others.
 
 ## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/krushaalkalkani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krushal-kalkani) [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/krushal-kalkani)
+[![x](https://img.shields.io/badge/-%2312100E.svg?logo=x&logoColor=white)](https://x.com/krushaalkalkani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krushal-kalkani) [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/krushal-kalkani)
 
 # 💻 Tech Stack:
 
